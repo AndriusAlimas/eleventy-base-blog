@@ -1,9 +1,9 @@
 {
-  "title": "Your Blog Name",
+  "title": "Road To Full Stack Developer ",
   "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "I am writing about my experiences how i become a Full Stack Web Developer.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Hard Road , but massive JOY! ",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -13,8 +13,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Andrius Alimas",
+    "email": "alimasWebDeveloper@gmail.com",
+    "url": "https://alimas.host20.uk/"
   }
 }
